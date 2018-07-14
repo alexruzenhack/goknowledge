@@ -1,6 +1,6 @@
 # Creating Well-tested Applications in Go
 
-This course presents the test framework, walking through unit test, benchmark test, analysis graph and documentation. It dive deep in details.
+This course presents the test framework, walking through the unit test, benchmark test, analysis graph and documentation. It dives deep into details.
 
 [pt-br] Esse curso mergulha fundo nos detalhes do teste, passando por testes unitários, testes de performance, análise gráfica e documentação.
 
