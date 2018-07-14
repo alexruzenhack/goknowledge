@@ -6,6 +6,8 @@ This course presents the basic of the language but assumes the watcher already h
 
 ## Course Details
 
+| | |
+| - | - |
 | Source | [Pluralsight](pluralsight.com) |
 | Title | [Go Fundamentals](https://app.pluralsight.com/library/courses/go-fundamentals/description) |
 | Author | Nigel Poulton |
