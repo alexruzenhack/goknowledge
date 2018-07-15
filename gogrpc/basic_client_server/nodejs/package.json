@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "A basic grpc client server",
+  "main": "app.js",
+  "scripts": {
+  },
+  "keywords": [
+    "grpc"
+  ],
+  "author": "Alex Ruzenhack",
+  "license": "MIT",
+  "dependencies": {
+    "grpc": "^1.13.0"
+  }
+}
