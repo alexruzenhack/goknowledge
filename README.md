@@ -7,7 +7,7 @@ Here I concentrate final projects on the courses I made and notes of programming
 
 ## References
 
-[Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
-[Go Concurrency Patterns: Context](https://blog.golang.org/context)
+* [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
+* [Go Concurrency Patterns: Context](https://blog.golang.org/context)
 
 
