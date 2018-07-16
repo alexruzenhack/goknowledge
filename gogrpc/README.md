@@ -2,15 +2,8 @@
 
 This course presents the gRPC framework with the buffer protocol.
 
-## Agenda
-
-* Options for interservice communication
-* Background and motivation for gRPC
-* Hello World Demo
-* Course Demo
-* Course Outline
-
-## Options
+## Notes
+### Options for interservice communication
 
 * REST - communication based in resources
 * RPC - communication based in functions and actions
