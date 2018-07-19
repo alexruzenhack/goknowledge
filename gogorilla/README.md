@@ -46,3 +46,21 @@ You can teach schema's decode to parse other types than just string.
 ### Gorilla/SecureCookies
 
 Protect information stored in the cookies that are transmitted to and from the client.
+
+### Gorilla/rpc
+
+Types of Web Services
+
+| REST | RPC |
+| ---- | --- |
+| Tied to HTTP | Protocol Agnostic |
+| Resource based | Action based |
+| Loosely Coupled | Tightly Coupled |
+
+RPC in GO
+
+| net/rpc | gorilla/rpc |
+| ------- | ----------- |
+| Single codec per server | Multiple codecs per server |
+| Methods take two parameters | Methods take three parameters |
+| Persistent connection | One connect per call |
