@@ -64,3 +64,5 @@ RPC in GO
 | Single codec per server | Multiple codecs per server |
 | Methods take two parameters | Methods take three parameters |
 | Persistent connection | One connect per call |
+
+### Gorilla/websocket
